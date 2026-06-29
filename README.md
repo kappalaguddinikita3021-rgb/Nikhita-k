@@ -128,11 +128,11 @@ public class NikhitaKappalaguddi extends FullStackDeveloper {
 
 
 
-## 📅 Contribution graph
+## 🐍 Contribution Snake
 
-[![Nikhita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_NEW_USERNAME&bg_color=0d1117&color=1D9E75&line=1D9E75&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nikhita-k/Nikhita-k/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ## 📚 Currently learning
 
